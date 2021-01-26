@@ -41,6 +41,8 @@
     <Folder Include="PythonChartTemperature\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PythonChartTemperature\temperature.csv" />
+    <Content Include="PythonChartTemperature\templates\chart.html" />
     <Content Include="requirements.txt" />
     <Content Include="PythonChartTemperature\static\content\bootstrap.css" />
     <Content Include="PythonChartTemperature\static\content\bootstrap.min.css" />
